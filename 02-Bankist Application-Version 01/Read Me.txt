@@ -1,0 +1,10 @@
+This is an exercise to work with JS arrays, their methods, DOM manipulation, using Timers, Dates, etc.
+To see the content you have two usernames and passwords
+1-user: js pass: 1111
+2-user: jd pass: 2222
+you can request a loan
+you can transfer money to the other user
+you can make a deposit or a withdrawal
+The session has a timer that logs the user out after 10 minutes in the case of inactivity
+The HTML and CSS was not implemented by me
+The implementation of JavaScript was done by me
